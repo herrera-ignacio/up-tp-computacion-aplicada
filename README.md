@@ -13,7 +13,7 @@ con servicios web, base de datos, almacenamiento dedicado y backups automatizado
 
 ## Entorno
 
-| | |
+| Parámetro | Valor |
 |---|---|
 | Hipervisor | Oracle VirtualBox, adaptador en modo puente |
 | Sistema operativo | Debian 12 (bookworm), actualizado desde Debian 11 (bullseye) |
